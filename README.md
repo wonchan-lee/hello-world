@@ -1,2 +1,4 @@
-# hello-world
-Just  repository for test 
+student=['name'='wonchan', 'age'=21]
+student.append('weight'=68)
+
+print(student)
